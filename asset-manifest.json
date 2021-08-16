@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/online-fashion-store-react/static/css/main.d662fd2c.chunk.css",
-    "main.js": "/online-fashion-store-react/static/js/main.7a532000.chunk.js",
-    "main.js.map": "/online-fashion-store-react/static/js/main.7a532000.chunk.js.map",
+    "main.css": "/online-fashion-store-react/static/css/main.4b036310.chunk.css",
+    "main.js": "/online-fashion-store-react/static/js/main.10a964c5.chunk.js",
+    "main.js.map": "/online-fashion-store-react/static/js/main.10a964c5.chunk.js.map",
     "runtime-main.js": "/online-fashion-store-react/static/js/runtime-main.05b56074.js",
     "runtime-main.js.map": "/online-fashion-store-react/static/js/runtime-main.05b56074.js.map",
-    "static/js/2.2d309186.chunk.js": "/online-fashion-store-react/static/js/2.2d309186.chunk.js",
-    "static/js/2.2d309186.chunk.js.map": "/online-fashion-store-react/static/js/2.2d309186.chunk.js.map",
+    "static/js/2.390247d7.chunk.js": "/online-fashion-store-react/static/js/2.390247d7.chunk.js",
+    "static/js/2.390247d7.chunk.js.map": "/online-fashion-store-react/static/js/2.390247d7.chunk.js.map",
     "index.html": "/online-fashion-store-react/index.html",
-    "static/css/main.d662fd2c.chunk.css.map": "/online-fashion-store-react/static/css/main.d662fd2c.chunk.css.map",
-    "static/js/2.2d309186.chunk.js.LICENSE.txt": "/online-fashion-store-react/static/js/2.2d309186.chunk.js.LICENSE.txt"
+    "static/css/main.4b036310.chunk.css.map": "/online-fashion-store-react/static/css/main.4b036310.chunk.css.map",
+    "static/js/2.390247d7.chunk.js.LICENSE.txt": "/online-fashion-store-react/static/js/2.390247d7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.05b56074.js",
-    "static/js/2.2d309186.chunk.js",
-    "static/css/main.d662fd2c.chunk.css",
-    "static/js/main.7a532000.chunk.js"
+    "static/js/2.390247d7.chunk.js",
+    "static/css/main.4b036310.chunk.css",
+    "static/js/main.10a964c5.chunk.js"
   ]
 }
